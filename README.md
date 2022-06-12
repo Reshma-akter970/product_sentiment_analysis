@@ -1,1 +1,8 @@
-# product_sentiment_analysis
+# Product Sentiment Analysis
+## Tools :
+- Python
+- TensorFlow
+- Pandas
+- Numpy
+- Scikit Learn
+- Keras
